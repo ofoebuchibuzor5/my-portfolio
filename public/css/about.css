@@ -174,7 +174,7 @@ footer p:nth-child(2){
 .hero{
     height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.952),rgba(0, 0, 0, 0.877)),url('C:/Users/USER/Desktop/web images/pictures/bird.webp')  ;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.952),rgba(0, 0, 0, 0.877)),url('/public/image/bird.webp')  ;
     background-size: cover;
     
 }
