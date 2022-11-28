@@ -23,6 +23,9 @@ app.get('/contact', (req, res)=>{
     res.render('contact us portfolio')
 })
 
+app.get('/profile', (req,res)=>{
+    res.render('my profile')
+})
 const Port = process.env.PORT || 3008
 app.listen(Port, ()=>{
     console.log(`${Port}`)
